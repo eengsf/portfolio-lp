@@ -27,7 +27,7 @@ function HomePage() {
       </p>
       <Link
         href={
-          'https://drive.google.com/file/d/1HxEGkASRt8z00xNexP93v2-P8KyCCx9T/view?usp=sharing'
+          'https://drive.google.com/file/d/1DbHinDeKrgpjMHM7OKMjdtDxdbkWhrcc/view?usp=sharing'
         }
         target="_blank"
         className="transition-all duration-200 px-16 py-4 border rounded-md mt-7 text-start border-custom-main2 w-fit hover:scale-[102%] hover:border-e-4 hover:border-b-4"
